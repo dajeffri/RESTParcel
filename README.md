@@ -1,6 +1,6 @@
 # RESTParcel
 
-This is a Django REST framework API for a potential REACT or Mobile App. It will allow a front end to process pre address mail pieces.
+This is a Django REST framework API for a REACT or Mobile App front end. It will allow a front end to process pre address mail pieces.
 
 This is really just something for my development portfolio. If you have any interest in an actual product please contact M.A.I.L. Inc. and ask about there SMARTParcel product.
 
